@@ -1,0 +1,36 @@
+@media screen and (max-width:600px) {
+    #logo img {
+        margin-bottom : 20%;
+    }
+    #header_nav {
+        padding-top : 15%;
+        padding-bottom : 5%;
+        padding-left : 70%;
+    }
+    #header_search {
+        padding-top : 7%;
+    }
+    #id_overlap {
+        width : 50%;
+    }
+    .buttons {
+        padding-left : 1%;
+    }
+    #review_search {
+        padding-right : 60%;
+    }
+    #re_se {
+        width : 40% !important;
+      }
+
+      #save {
+        width : 20% !important;
+        margin-left : 70% !important;
+      }
+      #write {
+        width : 10% !important;
+      }
+      .top img {
+        width : 10%;
+      }
+}
